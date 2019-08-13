@@ -1,0 +1,24 @@
+.header {
+    width: 100vw;
+    height: 15vh;
+}
+
+.websiteTitle {
+    width: 100vw;
+    height: 50%;
+    padding: 3px;
+}
+
+#buttonContainer {
+    width: 100vw;
+    height: 50%;
+}
+
+.buttonsStyle {
+    width: 20%;
+    height: 100%;
+}
+
+.headingText {
+    margin: 0;
+}
